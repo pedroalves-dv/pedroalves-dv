@@ -1,16 +1,8 @@
 # Hi there ☺
 <!-- Profile Header Image (Optional) -->
-<p align="center">
-  <img src="https://via.placeholder.com/1000x300.png" alt="Header Image">
-</p>
 
 <!-- Greetings -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/YOUR-GITHUB-USERNAME">Your Name</a> 👋</h1>
-
-<!-- Short Introduction -->
-<p align="center">
-  I'm a passionate <strong>developer</strong> with a love for <strong>technology</strong>, <strong>coding</strong>, and <strong>open-source</strong> projects.
-</p>
+<h1 align="center">Hi there, I'm <a href="https://github.com/pedroalves-dv">Pedro</a> ☺</h1>
 
 <!-- GitHub Stats (Optional) -->
 <p align="center">
