@@ -1,5 +1,7 @@
 # Hi there ☺
-![Cover](/img/cover-3686240761450239.png)
+<p align="center">
+  <img src="/img/kisspng-cat-dog-pet-photography-animal-nishimiya-manga-5b4b9adcc680e8.8134334115316815008131.jpg" alt="Cover" width="200" height="200">
+</p>
 <!--
 **pedroalves-dv/pedroalves-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
