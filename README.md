@@ -1,8 +1,3 @@
-<!-- Optional Header Image -->
-<p align="center">
-  <img src="https://via.placeholder.com/1000x300.png" alt="Header Image">
-</p>
-
 <!-- Introduction -->
 <h1 align="center">Hello, I'm <a href="https://github.com/pedroalves-dv">Pedro</a> ☺</h1>
 
