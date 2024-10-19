@@ -1,35 +1,52 @@
-<!-- Greetings -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/pedroalves-dv">Pedro</a> ☺</h1>
-
-<!-- Short Introduction -->
+<!-- Optional Header Image -->
 <p align="center">
-  I'm a newbie <strong>developer</strong> with a love for <strong>technology</strong>, <strong>coding</strong>, and <strong>open-source</strong> projects.
+  <img src="https://via.placeholder.com/1000x300.png" alt="Header Image">
 </p>
 
-<!-- GitHub Stats (Optional) -->
+<!-- Introduction -->
+<h1 align="center">Hello, I'm <a href="https://github.com/pedroalves-dv">Pedro</a> ☺</h1>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Your GitHub Stats">
+  <em>Aspiring software developer passionate about learning and building impactful solutions through code.</em>
+</p>
+
+<!-- Short Overview of What You're Doing -->
+<p align="center">
+  I'm currently exploring different areas of software development and working on sharpening my skills in various programming languages.
+  <br>
+  Always eager to contribute to open-source projects and collaborate with others.
 </p>
 
 <!-- Skills/Technologies Section -->
-<h2 align="center">🔧 Technologies & Tools</h2>
+<h2 align="center">🔧 Technologies I'm Learning</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/>
-  <!-- Add more badges for your tech stack -->
+  - JavaScript (ES6+)<br>
+  - Python<br>
+  - HTML & CSS<br>
+  - Version Control (Git & GitHub)
 </p>
 
-<!-- Projects Section -->
-<h2 align="center">📌 Projects</h2>
+<!-- Projects or Goals Section -->
+<h2 align="center">🛠️ Current Projects</h2>
+- **Learning by Doing:** Working on mini-projects to build my portfolio.
+- **Open Source Exploration:** Contributing to beginner-friendly repositories to grow my knowledge and experience.
+- **Building Confidence with Version Control:** Practicing how to efficiently use Git and GitHub.
 
-- **[Project 1](https://github.com/YOUR-GITHUB-USERNAME/project1)**: A brief description of the project.
-- **[Project 2](https://github.com/YOUR-GITHUB-USERNAME/project2)**: A brief description of the project.
-- **[Project 3](https://github.com/YOUR-GITHUB-USERNAME/project3)**: A brief description of the project.
+<!-- Optional Image or Illustration -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Coding Gif">
+</p>
 
-<!-- Contact Information Section -->
-<h2 align="center">📫 Connect with Me</h2>
+<!-- What I'm Looking Forward to -->
+<h2 align="center">🌱 What's Next</h2>
+<p align="center">
+  - Deepening my understanding of JavaScript frameworks.<br>
+  - Exploring backend development with Node.js.<br>
+  - Collaborating on more open-source projects.
+</p>
+
+<!-- Connect with Me Section -->
+<h2 align="center">📫 Let's Connect</h2>
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -37,26 +54,9 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <!-- Add more social links as needed -->
 </p>
 
-<!-- Footer with Fun Quote or Message -->
+<!-- Fun but Subtle Footer -->
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card">
+  <em>"Strive for progress, not perfection." – Unknown</em>
 </p>
-
-
-<!--
-**pedroalves-dv/pedroalves-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
