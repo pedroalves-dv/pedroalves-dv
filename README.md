@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+![Cover](https://github.com/pedroalves-dv/pedroalves-dv/img/kisspng-cat-dog-pet-photography-animal-nishimiya-manga-5b4b9adcc680e8.8134334115316815008131.jpg)
 <!--
 **pedroalves-dv/pedroalves-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
