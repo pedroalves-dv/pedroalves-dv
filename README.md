@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ☺
 <p align="center">
   <img src="/img/cover-430879349995563.png" alt="Cover" width="600" height="600">
 </p>
