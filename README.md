@@ -1,6 +1,11 @@
 <!-- Greetings -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/pedroalves-dv">Pedro</a> ☺</h1>
 
+<!-- Short Introduction -->
+<p align="center">
+  I'm a newbie <strong>developer</strong> with a love for <strong>technology</strong>, <strong>coding</strong>, and <strong>open-source</strong> projects.
+</p>
+
 <!-- GitHub Stats (Optional) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Your GitHub Stats">
