@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="/img/cover-430879349995563.png" alt="Cover" width="500" height="300">
+  <img src="/img/cover-430879349995563.png" alt="Cover" width="600" height="600">
 </p>
 <!--
 **pedroalves-dv/pedroalves-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
