@@ -1,6 +1,3 @@
-# Hi there ☺
-<!-- Profile Header Image (Optional) -->
-
 <!-- Greetings -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/pedroalves-dv">Pedro</a> ☺</h1>
 
