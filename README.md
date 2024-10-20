@@ -26,10 +26,6 @@
 <!-- Projects Section -->
 <h2 align="center">📌 Projects</h2>
 
-- **[Project 1](https://github.com/YOUR-GITHUB-USERNAME/project1)**: A brief description of the project.
-- **[Project 2](https://github.com/YOUR-GITHUB-USERNAME/project2)**: A brief description of the project.
-- **[Project 3](https://github.com/YOUR-GITHUB-USERNAME/project3)**: A brief description of the project.
-
 <!-- Contact Information Section -->
 
 <!-- Optional Image or Illustration -->
