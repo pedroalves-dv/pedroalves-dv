@@ -51,18 +51,6 @@
   </a>
 </p>
 
-<!-- Contact Information Section -->
-<h2 align="center">📫 Connect with Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <!-- Add more social links as needed -->
-</p>
-
 <!-- Footer with Fun Quote or Message -->
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card">
