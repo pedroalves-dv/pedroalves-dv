@@ -13,12 +13,13 @@
 </p>
 
 <!-- Skills/Technologies Section -->
-<h2 align="center">🔧 Technologies I'm Learning</h2>
+<h2 align="center">🔧 Technologies & Tools</h2>
 <p align="center">
-  - JavaScript (ES6+)<br>
-  - Python<br>
-  - HTML & CSS<br>
-  - Version Control (Git & GitHub)
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/>
+  <!-- Add more badges for your tech stack -->
 </p>
 
 <!-- Projects or Goals Section -->
